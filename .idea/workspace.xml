@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd41df2a-15b7-4328-b579-fe44372b1fbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZScabo1AXVdl5S26F5Aty4JGvd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AnnotationDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springdemo.AnnotationDemoApp" />
+      <module name="spring-demo-annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnnotationDemoApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../de-cmd-2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../de-data-etl" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../poc-cloud-shell-cli" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scratch/foo-build" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scratch/learn_spark" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scratch/tutorial-cat" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd41df2a-15b7-4328-b579-fe44372b1fbb" name="Default Changelist" comment="" />
+      <created>1584836002862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584836002862</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="202" key="#Project_Structure" timestamp="1584836055434">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="202" key="#Project_Structure/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584836055434" />
+    <state x="653" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1584837430224">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="653" y="253" key="#com.intellij.ide.util.MemberChooser/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584837430224" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1584837804779">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584837804779" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1584837804778">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.center/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584837804778" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1584837804777">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584837804777" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1584837804779">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584837804779" />
+    <state x="328" y="118" key="SettingsEditor" timestamp="1584836142659">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="328" y="118" key="SettingsEditor/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584836142659" />
+  </component>
+</project>
