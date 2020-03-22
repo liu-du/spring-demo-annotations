@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd41df2a-15b7-4328-b579-fe44372b1fbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/example/springdemo/JavaConfigDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/springdemo/SadFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/springdemo/SportConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/springdemo/SportJavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/springdemo/SwimCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/springdemo/SwimJavaConfigDemoApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/springdemo/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/springdemo/TennisCoach.java" afterDir="false" />
     </list>
@@ -45,12 +51,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springdemo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnnotationBeanScopeDemoApp">
+  <component name="RunManager" selected="Application.SwimJavaConfigDemoApp">
     <configuration name="AnnotationBeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.springdemo.AnnotationBeanScopeDemoApp" />
       <module name="spring-demo-annotations" />
@@ -77,10 +86,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaConfigDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springdemo.JavaConfigDemoApp" />
+      <module name="spring-demo-annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwimJavaConfigDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springdemo.SwimJavaConfigDemoApp" />
+      <module name="spring-demo-annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnnotationBeanScopeDemoApp" />
+        <item itemvalue="Application.SwimJavaConfigDemoApp" />
+        <item itemvalue="Application.JavaConfigDemoApp" />
         <item itemvalue="Application.AnnotationDemoApp" />
+        <item itemvalue="Application.AnnotationBeanScopeDemoApp" />
       </list>
     </recent_temporary>
   </component>
@@ -114,26 +151,26 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="440" y="202" key="#Project_Structure/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584836055434" />
-    <state x="653" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1584839716734">
+    <state x="653" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1584846996598">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="653" y="253" key="#com.intellij.ide.util.MemberChooser/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584839716734" />
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1584839770094">
+    <state x="653" y="253" key="#com.intellij.ide.util.MemberChooser/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584846996598" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1584849850734">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584839770094" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1584839770093">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584849850734" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1584849850733">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.center/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584839770093" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1584839770093">
+    <state width="1638" height="280" key="GridCell.Tab.0.center/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584849850733" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1584849850732">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.left/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584839770093" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1584839770093">
+    <state width="1638" height="280" key="GridCell.Tab.0.left/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584849850732" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1584849850734">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.right/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584839770093" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/-116.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584849850734" />
     <state x="328" y="118" key="SettingsEditor" timestamp="1584836142659">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
